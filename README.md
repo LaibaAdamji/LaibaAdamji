@@ -6,7 +6,6 @@ I'm Laiba, an enthusiastic CS student with the aim to save the world - one proje
 - 💬 Ask me about research writing!
 - 👯 I’m looking to collaborate on any project that contains arduino-based, or DSA-based approaches.
 - 📫 How to reach me: email @ laibaadamji@gmail.com
-- ⚡ Fun fact: I've tried every hobby under the sun (yes, from skateboarding to crochet, from welding to snowboarding!)
 <!--
 **LaibaAdamji/LaibaAdamji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
