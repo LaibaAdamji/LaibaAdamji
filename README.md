@@ -2,7 +2,7 @@
 
 I'm Laiba, an enthusiastic CS student with the aim to save the world - one project at a time.
 - 🔭 I’m currently working on a voice recognition based writer for specially-abled people (Arduino-based).
-- 🌱 I’m currently learning MIL and C#!
+- 🌱 I’m currently learning ML and C#!
 - 💬 Ask me about research writing!
 - 👯 I’m looking to collaborate on any project that contains arduino-based, or DSA-based approaches.
 - 📫 How to reach me: email @ laibaadamji@gmail.com
